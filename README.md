@@ -1,5 +1,11 @@
 # fastjson-check
 
+0.2 beta 中添加 C3P0 和CC链的两种回显
+C3P0回显
+
+![Alt text](https://github.com/bigsizeme/fastjson-check/blob/main/3.png)
+
+
 在@pmiaowu插件上做的修改，原作者用dnslog.cn进行出网检查，但在大型攻防演练（HW）过程中由于前期打点，测试的站点较多dnslog.cn会对IP进行封禁操作
 导致插件无法正常检测
 
